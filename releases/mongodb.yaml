@@ -2,7 +2,7 @@
 apiVersion: helm.fluxcd.io/v1
 kind: HelmRelease
 metadata:
-  name: mongodb_changed
+  name: mongodb
   namespace: demo
   annotations:
     fluxcd.io/automated: "false"
