@@ -1,0 +1,1 @@
+{"jobID":"159b77e2-5908-e930-3599-195502ceea93","spec":{"type":"policy","cause":{"Message":"","User":"polarity.sm \u003cmengsunx@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"locked":"true","locked_msg":"","locked_user":"polarity.sm \u003cmengsunx@gmail.com\u003e"},"remove":{}}}},"result":null}
