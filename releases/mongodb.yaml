@@ -2,7 +2,7 @@
 apiVersion: helm.fluxcd.io/v1
 kind: HelmRelease
 metadata:
-  name: mongodb
+  name: mongodb_changed
   namespace: demo
   annotations:
     fluxcd.io/automated: "false"
@@ -16,10 +16,7 @@ spec:
   values:
     image:
       repository: bitnami/mongodb
-      tag: 4.0.10
-    drinks:
-      - coffee
-      - tea
+      tag: 4.0.12
     usePassword: false
     persistence:
       enabled: false
