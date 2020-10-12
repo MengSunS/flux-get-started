@@ -17,6 +17,9 @@ spec:
     image:
       repository: bitnami/mongodb
       tag: 4.0.10
+    drinks:
+      - coffee
+      - tea
     usePassword: false
     persistence:
       enabled: false
