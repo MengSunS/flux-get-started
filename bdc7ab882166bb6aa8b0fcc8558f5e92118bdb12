@@ -1,0 +1,1 @@
+{"jobID":"c956801b-a653-b907-2797-1579188247bc","spec":{"type":"policy","cause":{"Message":"","User":"polarity.sm \u003cmengsunx@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{},"remove":{"automated":"true"}}}},"result":null}
